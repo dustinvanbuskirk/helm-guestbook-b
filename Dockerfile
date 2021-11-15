@@ -1,2 +1,2 @@
-# START B
+# START B 2
 FROM gcr.io/heptio-images/ks-guestbook-demo:0.1
